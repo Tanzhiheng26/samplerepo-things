@@ -2,3 +2,5 @@ apples
 berries
 cherries
 dragon fruit
+dates
+
